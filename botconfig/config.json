@@ -1,0 +1,16 @@
+{
+   "token": "ODU4NTY0MjUwODUxMjEzMzEy.YNf-RA.MgC39eRyiTMy5g-MfO0iF08pFms",
+   "prefix": "!",
+   "owner": "772840098441855016",
+   "music_settings": {
+      "searchSongs": false,
+      "emitNewSongOnly": false,
+      "highWaterMark": 67108864,
+      "leaveOnEmpty": false,
+      "leaveOnFinish": false,
+      "leaveOnStop": true,
+      "youtubeDL": true,
+      "updateYouTubeDL": true,
+      "youtube_cookie": "Set your Cookie here, to prevent 429! TUTORIAL https://youtu.be/qymuvhBetnM"
+   }
+}
